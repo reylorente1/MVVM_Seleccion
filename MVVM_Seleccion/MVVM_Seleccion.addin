@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command MVVM_Seleccion</Text>
+    <Description>Some description for MVVM_Seleccion</Description>
+    <Assembly>MVVM_Seleccion.dll</Assembly>
+    <FullClassName>MVVM_Seleccion.Command</FullClassName>
+    <ClientId>4b9507be-b5ac-4c16-afbf-13d381232a2d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

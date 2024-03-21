@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ModificarParametroMVVM</Text>
+    <Description>Some description for ModificarParametroMVVM</Description>
+    <Assembly>ModificarParametroMVVM.dll</Assembly>
+    <FullClassName>ModificarParametroMVVM.Command</FullClassName>
+    <ClientId>ce33dd62-90e6-4514-b07c-dca960edff80</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application ModificarParametroMVVM</Name>
+    <Assembly>ModificarParametroMVVM.dll</Assembly>
+    <FullClassName>ModificarParametroMVVM.App</FullClassName>
+    <ClientId>1a1e5b95-6b3a-478a-9bba-2b78ff51ff85</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
